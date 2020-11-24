@@ -1,0 +1,12 @@
+.buttonTitle{
+    /* top: 441px; */
+/* left: 345px; */
+/* width: 183px; */
+/* height: 28px; */
+/* text-align: left; */
+font: normal normal medium 20px/26px Poppins;
+letter-spacing: 1.12px;
+color: #13111E;
+text-transform: capitalize;
+opacity: 1;
+}

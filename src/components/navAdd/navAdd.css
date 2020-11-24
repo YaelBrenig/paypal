@@ -1,0 +1,42 @@
+/* .nav{ */
+    /* top: 0px; */
+/* left: 0px; */
+/* width: 1920px; */
+/* height: 80px; */
+/* background: #FFFFFF 0% 0% no-repeat padding-box; */
+/* box-shadow: 0px 3px 6px #0A74B126; */
+/* opacity: 1; */
+/* } */
+navbar-collapse collapse show{
+    width: -webkit-fill-available !important;
+}
+
+.navnav{
+    width: -webkit-fill-available !important;
+
+}
+.navbar-collapse collapse show{
+    width: -webkit-fill-available !important;
+}
+.leaderLogo{
+    color: #08A5FE !important;
+}
+
+/* .leader{ */
+    /* text-align: left; */
+/* font: normal normal medium 26px/27px Rubik; */
+/* letter-spacing: 0px; */
+/* color: #08A5FE !important; */
+/* opacity: 1;
+} */
+
+.a{
+background: #FFFFFF 0% 0% no-repeat padding-box;
+    /* top: 0px;   */
+/* left: 0px; */
+/* width: 1920px; */
+/* height: 80px; */
+/* background: #FFFFFF 0% 0% no-repeat padding-box; */
+box-shadow: 0px 3px 6px #0A74B126;
+ /* opacity: 1;  */
+}

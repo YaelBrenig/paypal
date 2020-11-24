@@ -1,0 +1,201 @@
+.cardTopOne{
+    background-color: #3598F4;
+    /* height: 100vh; */
+    /* height: 27vh; */
+    /* padding-bottom: 28px; */
+}
+
+.cardTopTwo{
+    background-color: #44D7B6;
+    /* height: 40vh; */
+    /* padding-bottom: 28px; */
+
+}
+
+.cardTopThree{
+    background-color: #6DD400;
+    /* padding-bottom: 28px; */
+
+    /* height: 40vh; */
+}
+
+.cardTopFor{
+    background-color: #B620E0;
+    /* padding-bottom: 28px; */
+
+    /* height: 40vh; */
+}
+
+.cardTopFive{
+    background-color: #FF808B;
+    /* padding-bottom: 28px; */
+
+    /* height: 40vh; */
+}
+
+.cardTopSix{
+     background-color: #F7B500;
+     /* padding-bottom: 28px; */
+
+     /* height: 40vh; */
+}
+
+.cardTopSeven{
+ background-color: #6236FF;
+ /* padding-bottom: 28px; */
+/* font-family: roboto; */
+ /* height: 40vh; */
+}
+
+.cardTopEigth{
+background-color: #9698D6;
+/* padding-bottom: 28px; */
+
+/* height: 40vh; */
+}
+
+
+
+.text{
+    /* width: 230px;     */
+    height: 82px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #8181A5;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col, .col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl, .col-xl-auto{
+    padding-right: 0px !important;
+    padding-left: 5px !important;
+}
+
+.buttomOne{
+    background-color: #3598F4;
+}
+
+.buttomTwo{
+    background-color:#44D7B6;
+}
+
+.buttomThree{
+    background-color:  #6DD400;
+
+}
+
+.buttomFour{
+    background-color: #B620E0;
+}
+
+.buttomFive{
+    background-color:#FF808B;
+}
+
+.buttomSix{
+    background-color: #F7B500;
+}
+
+.buttomSeven{
+background-color: #6236FF;
+}
+
+.buttomEigth{
+    background-color: #9698D6;
+}
+
+.buttomNine{
+    background: transparent linear-gradient(210deg, #1AFFFC 0%, #1AFFFC 0%, #007FFF 100%) 0% 0% no-repeat padding-box;
+}
+
+.cardTopNine{
+    background: transparent linear-gradient(210deg, #1AFFFC 0%, #1AFFFC 0%, #007FFF 100%) 0% 0% no-repeat padding-box;   
+}
+
+.text{
+ text-align: left;
+ /* top: 846px; */
+/* left: 435px; */
+/* width: 261px; */
+/* height: 82px; */
+/* text-align: left; */
+/* letter-spacing: 0px; */
+/* color: #8181A5; */
+/* text-transform: capitalize; */
+/* opacity: 1; */
+font-size: 17px;
+line-height: normal;
+
+}
+
+.leaderImg{
+    /* background-color:transparent linear-gradient(210deg, #1AFFFC 0%, #1AFFFC 0%, #007FFF 100%) 0% 0% no-repeat padding-box;
+     */
+     background: transparent linear-gradient(210deg, #1AFFFC 0%, #1AFFFC 0%, #007FFF 100%) 0% 0% no-repeat padding-box;
+}
+
+.cardTitle{
+    color: black;
+    line-height: 10px;
+}
+
+.iconImg{
+    height:24px !important;
+    width: 24px !important;
+}
+
+.buttom{
+    width: 123.89px !important;
+    height: 31px !important;
+    border: none;
+    font-size: small;
+    margin-bottom: 70%;
+    margin-left: 50%;
+}
+
+.buttonCapture{
+font-size: smaller;
+    /* top: 505px; */
+/* left: 1495px; */
+/* width: 54px; */
+/* height: 18px; */
+text-align: center;
+letter-spacing: 0px;
+color: #8181A5;
+text-transform: capitalize;
+opacity: 1; 
+}
+
+.cardAll{
+    border-radius: 10px !important;
+    overflow: hidden !important
+}
+
+.offsetCard{
+    margin: 4px;
+}
+
+.cardTextRow{
+    height: 20vh;
+}
+
+.cardBody{
+background-color: #FBFBFD;
+}
+
+.card1{
+    width: 70%;
+    margin: auto;
+    margin-top: 4%;
+    
+    }
+    
+    .imgOne{
+        margin-top: 10%;
+        height: 100%;
+        width: 80%;
+    }
+
+    img{
+        margin-top: 0px !important;
+    }
